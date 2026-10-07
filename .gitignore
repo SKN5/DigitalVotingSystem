@@ -1,0 +1,14 @@
+# Java
+target/
+*.class
+
+# SQLite database
+*.db
+
+# IDE
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+.vscode/
